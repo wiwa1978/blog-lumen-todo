@@ -1,4 +1,4 @@
-# vue-todo-demo
+# blog-lumen-todo
 
 > Todo REST API server using Lumen
 
